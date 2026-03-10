@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+
+    <title>Ejercicio5</title>
+
+    </head>
+  <body>
+  body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #eef2f3;
+    color: #333;
+  }
+
+  header {
+    background-color: #004080;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+  }
+
+  nav {
+    background-color: #0078d7;
+    text-align: center;
+    padding: 10px;
+  }
+
+  nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 20px;
+    font-weight: bold;
+  }
+
+  nav a:hover {
+    text-decoration: underline;
+  }
+
+  main {
+    padding: 20px;
+  }
+
+  section {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 15px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  }
+
+  article {
+    margin-bottom: 15px;
+  }
+
+  img {
+    margin-top: 10px;
+    border-radius: 5px;
+  }
+
+  footer {
+    background-color: #004080;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+  }
+
+  .imagen {
+  text-align: center;
+}
+  </body>
+</html>
